@@ -1,5 +1,8 @@
- import java .util.*;
- public class EnCodeAndDecode {
+
+import java .util.*;
+public class EnCodeAndDecodeString {
+
+
  
     
  
@@ -41,3 +44,4 @@
        System.out.println("decode"+decoded);
     }
 }
+
