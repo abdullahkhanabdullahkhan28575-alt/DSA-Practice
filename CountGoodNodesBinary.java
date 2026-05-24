@@ -1,4 +1,4 @@
-public class CountGoodNodesBinary {\
+public class CountGoodNodesBinary {
      public int goodNodes(TreeNode root) {
         return dfs(root, root .val);
 
