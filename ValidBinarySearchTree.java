@@ -1,3 +1,7 @@
+public class ValidBinarySearchTree {
+
+    
+
 public boolean isValidBST(TreeNode root) {
         return valid(root, Long.MIN_VALUE,Long.MAX_VALUE);
         
@@ -14,3 +18,4 @@ public boolean isValidBST(TreeNode root) {
         return valid (node.left, left, node.val)&&
        valid(node.right, node.val, right); 
     }
+}
