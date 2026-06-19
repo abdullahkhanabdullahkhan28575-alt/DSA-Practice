@@ -21,6 +21,5 @@ public class CarFleet {
         }
         return stack.size();
     }
-
     
 }
