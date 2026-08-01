@@ -1,4 +1,4 @@
-HouseRobber.java
+
 class Solution {
     public int rob(int[] nums) {
         int prev1 = 0, prev2 = 0;
