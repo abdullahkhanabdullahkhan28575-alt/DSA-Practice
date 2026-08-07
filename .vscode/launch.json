@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solutionlist",
+            "request": "launch",
+            "mainClass": "Solutionlist",
+            "projectName": "DSAPractice_dbd256ae"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DSAPractice_dbd256ae"
+        },
+        {
+            "type": "java",
             "name": "Merge_Short",
             "request": "launch",
             "mainClass": "Merge_Short",
