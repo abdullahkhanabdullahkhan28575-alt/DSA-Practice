@@ -20,7 +20,7 @@ public class URL_cach {
     private Node left;
     private Node right;
 
-    public LRUCache(int capacity) {
+    public URL_cach(int capacity) {
         this.cap = capacity;
         this.cache = new HashMap<>();
         this.left = new Node(0, 0);
