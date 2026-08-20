@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sum3",
+            "request": "launch",
+            "mainClass": "sum3",
+            "projectName": "DSAPractice_dbd256ae"
+        },
+        {
+            "type": "java",
             "name": "HashMap_Implementation",
             "request": "launch",
             "mainClass": "HashMap_Implementation",
