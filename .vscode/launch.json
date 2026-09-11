@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Container_With_Most_Water",
+            "request": "launch",
+            "mainClass": "Container_With_Most_Water",
+            "projectName": "DSAPractice_dbd256ae"
+        },
+        {
+            "type": "java",
             "name": "Two_Integer_Sum__II",
             "request": "launch",
             "mainClass": "Two_Integer_Sum__II",
