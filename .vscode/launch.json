@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Car_Fleet",
+            "request": "launch",
+            "mainClass": "Car_Fleet",
+            "projectName": "DSAPractice_dbd256ae"
+        },
+        {
+            "type": "java",
             "name": "Container_With_Most_Water",
             "request": "launch",
             "mainClass": "Container_With_Most_Water",
